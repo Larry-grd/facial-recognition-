@@ -1,0 +1,15 @@
+numpy
+opencv-python
+opencv-contrib-python
+mysql-connector-python
+pyttsx3
+Pillow
+tkinter
+urllib3
+datetime
+smtplib
+email-mime-multipart
+email-mime-text
+sys
+webbrowser
+pysimplegui
